@@ -1,25 +1,55 @@
+<div align="center">
+
 # 👋 Hi, I'm Khizar Malik
 
-Computer Science student at Carleton University, specializing in Artificial Intelligence and Machine Learning. Currently seeking Winter 2025 co-op opportunities!
+<p align="center">
+Computer Science student at Carleton University | AI & ML Enthusiast | Looking for Winter 2025 Co-op
+</p>
 
 ## 🎓 About Me
-- 🌟 Currently in Computer Science (AI Stream) at Carleton University
-- 🔍 Actively seeking Winter 2025 co-op/internship opportunities
-- 📱 Learning and building with React Native
-- 🏆 Recipient of Academic Excellence Award (International Students)
+<p align="center">
+🌟 Computer Science (AI Stream) at Carleton University<br>
+🔍 Seeking Winter 2025 co-op/internship opportunities<br>
+📱 React Native Developer<br>
+🏆 Academic Excellence Award Recipient
+</p>
 
-## 🛠 Technical Stack
-- **Languages:** C++, Python, Java, JavaScript, SQL, TypeScript
-- **Frontend:** React, React Native, Tailwind CSS
-- **Technologies:** Qt Framework, Node.js, OpenCV, MediaPipe
-- **Tools:** Git, Design Patterns, SOLID Principles, Agile/Scrum, GDB, Valgrind, CI/CD
+## 🛠 Tech Stack
+
+<!-- Languages -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+</div>
+
+<!-- Tools -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="40" height="40"/>
+</div>
 
 ## 🌱 Currently Learning
-- Deepening my expertise in React Native development
-- Exploring mobile app architecture and best practices
-- Always open to learning new technologies!
+<p align="center">
+Advanced React Native | Mobile Architecture | System Design
+</p>
 
 ## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/khizar--malik/)
-- [Email](mailto:khizarmalik@cmail.carleton.ca)
-- [Portfolio Website](khizarmalik.com)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/khizar--malik/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="mailto:khizarmalik@cmail.carleton.ca">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>&nbsp;
+  <a href="https://khizarmalik.com/">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
+  </a>
+</p>
+
+</div>
