@@ -10,7 +10,6 @@ Computer Science student at Carleton University | AI & ML Enthusiast | Looking f
 <p align="center">
 🌟 Computer Science (AI Stream) at Carleton University<br>
 🔍 Seeking Winter 2025 co-op/internship opportunities<br>
-📱 React Native Developer<br>
 🏆 Academic Excellence Award Recipient
 </p>
 
