@@ -34,7 +34,7 @@ Computer Science student at Carleton University | AI & ML Enthusiast | Looking f
 
 ## 🌱 Currently Learning
 <p align="center">
-Advanced React Native | Mobile Architecture | System Design
+Advanced React Native | Mobile Architecture | Bootstrap
 </p>
 
 ## 📫 Let's Connect
